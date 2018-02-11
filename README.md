@@ -4,4 +4,6 @@
 
 역할:
 
-김진영: Android 강한새별: Web-Server 안 향:
+김진영: Android 
+강한새별: Web-Server
+안 향: 
